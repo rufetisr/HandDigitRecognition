@@ -10,3 +10,4 @@ To create the dataset, I used Roboflow for its robust tools for annotation and a
 
 Labeled Dataset: https://universe.roboflow.com/rufats-workspace/hand-digit-identifying/dataset/5/images
 
+Project report: https://github.com/rufetisr/HandDigitRecognition/blob/main/Project%20report.pdf
