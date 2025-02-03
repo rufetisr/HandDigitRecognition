@@ -2,5 +2,4 @@ Labeled Dataset: https://universe.roboflow.com/rufats-workspace/hand-digit-ident
 
 Try on Realtime in your browser:
 
-https://demo.roboflow.com/hand-digit-
-identifying/5?publishable_key=rf_UBEq7wtaiFUzDFgSdBHCGBSd7xE3
+https://demo.roboflow.com/hand-digit-identifying/5?publishable_key=rf_UBEq7wtaiFUzDFgSdBHCGBSd7xE3
