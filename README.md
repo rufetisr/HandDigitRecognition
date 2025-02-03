@@ -1,6 +1,7 @@
-#Hand Digit Recognition Project
+# Hand Digit Recognition Project
 
 **Introduction**
+
 This project focuses on creating a custom dataset and training a model to recognize hand digits from images. I took a structured approach to dataset creation, preprocessing, augmentation, and model selection to achieve reliable performance.
 
 **Dataset Creation**
